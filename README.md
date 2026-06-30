@@ -49,9 +49,9 @@ imblearn
 
 *To see the Analysis NoteBook in deep details please check:* 
 
-*[https://github.com/omars1234/python_Insurance_Analysis](https://github.com/alsoub-labs/Insurance_Analysis)*
+*[https://github.com/alsoub-labs/python_Insurance_Analysis](https://github.com/alsoub-labs/Insurance_Analysis)*
 
-*[https://github.com/omars1234/R-Programming_AutoMobileInusranceAnalysis](https://github.com/alsoub-labs/R-Programming_AutoMobileInusranceAnalysis)*
+*[https://github.com/alsoub-labs/R-Programming_AutoMobileInusranceAnalysis](https://github.com/alsoub-labs/R-Programming_AutoMobileInusranceAnalysis)*
 
 [*AutoMobilePricesAnalysis-http://rpubs.com/omars/1207895*](http://rpubs.com/omars/1208635)  
 
@@ -62,7 +62,7 @@ imblearn
 
 ## 🔗 Links
 
-[*my github page-https://github.com/omars1234*](https://github.com/alsoub-labs)
+[*my github page-https://github.com/alsoub-labs*](https://github.com/alsoub-labs)
 
 ## *🛠 Skills*
 *python, R, SQL ,PowerBi ,Tableaue*
